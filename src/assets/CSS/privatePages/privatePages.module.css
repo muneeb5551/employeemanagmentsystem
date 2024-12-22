@@ -1,0 +1,71 @@
+.main_heading {
+    font-size: 32px;
+    font-weight: 700;
+    color: black;
+}
+
+.sub_heading {
+    font-size: 28px;
+    font-weight: 700;
+    color: black;
+}
+
+/* Privacy  */
+.privacy_sub_heading {
+    font-size: 24px;
+    font-weight: 700;
+    color: black;
+    margin-top: 10px;
+}
+
+.privacy_paragraphs {
+    font-size: 24px;
+    font-weight: 400;
+    color: black;
+}
+
+/* Support */
+.labelDiv {
+    width: 15%;
+}
+
+.labelDiv label {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.inputDiv {
+    width: 85%;
+}
+
+.inputDiv input,
+textarea {
+    border: 1px solid #B7B7B7;
+    padding: 15px;
+    width: 100%;
+}
+
+.inputDiv input,
+textarea:focus {
+    outline: none;
+}
+
+.location_main_heading {
+    font-size: 32px;
+    font-weight: 700;
+    color: black;
+}
+
+.location_sub_headings {
+    font-size: 24px;
+    font-weight: 400;
+    color: black;
+}
+
+@media screen and (max-width:768px) {
+
+    .inputDiv,
+    .inputDiv {
+        width: 100%;
+    }
+}

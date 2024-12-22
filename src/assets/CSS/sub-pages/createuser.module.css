@@ -1,0 +1,13 @@
+.customInputImageCenter{
+    position: absolute;
+    top: 50%;
+    right: 5px;
+    transform: translate(-50%, -50%);
+}
+.customInputImageCentermail{
+    position: absolute;
+    top: 50%;
+    right: 8px;
+    width: 20px;
+    transform: translate(-50%, -50%);
+}
